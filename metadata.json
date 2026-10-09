@@ -1,0 +1,8 @@
+{
+  "name": "Ankit Event Decor - Luxury Event Decoration & Booking",
+  "description": "Premium event decoration, birthday, anniversary, wedding, baby shower and surprise party decorations by Ankit Kumar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
